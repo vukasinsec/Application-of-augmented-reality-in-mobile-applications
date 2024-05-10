@@ -21,6 +21,8 @@ MagicPaper is a simpler AR application that replaces a static image with a dynam
 1. **Video Integration**: Users select a video in .mp4 format and prepare an image to replace with the video. The SKVideoNode declaration is used to connect the video with AR technology.
 2. **Scene Adjustment**: It's crucial to adjust the scene resolution and size to ensure proper display of the video overlay using the SKScene declaration.
 
+![GitHub Logo](gifs/novine.jpg)
+
 ## **Purpose**
 
 These applications aim to introduce users to modern technologies, particularly AR. With over 13 million downloads of AR-enabled applications, the future of this technology appears promising.
