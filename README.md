@@ -12,6 +12,8 @@ Pokemon3D is an AR application that allows users to interact with 3D models of P
 2. **3D Model Conversion**: 3D models of Pokemon characters are converted into the USDZ file format, which is compatible with ARKit. The Reality Converter tool or online converters can be used for this purpose.
 3. **Integration**: The 3D models are linked to the corresponding images using scene nodes. Once integrated, the application is ready for use.
 
+![GitHub Logo](gifs/pokemon.gif)
+
 ## **MagicPaper**
 
 MagicPaper is a simpler AR application that replaces a static image with a dynamic video overlay using AR technology. The process involves:
